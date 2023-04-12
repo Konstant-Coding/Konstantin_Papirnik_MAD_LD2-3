@@ -1,4 +1,4 @@
-package com.example.ld2.CoreComponents
+package com.example.ld2
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
